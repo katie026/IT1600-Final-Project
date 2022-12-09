@@ -5,6 +5,7 @@
 | ----------- | ----------- | ----------- |
 | Sending| Network layer | Physical layer |
 | Recieving| Physical layer | Network  layer |
+
 <br></br>
 
 ![data link layer][image1]
